@@ -1,0 +1,3 @@
+[submodule "anisama2013"]
+	path = anisama2013
+	url = git@github.com:pi9min/anisama2013.git

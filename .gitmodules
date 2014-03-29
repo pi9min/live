@@ -4,3 +4,6 @@
 [submodule "animax2013"]
 	path = animax2013
 	url = git@github.com:pi9min/animax2013.git
+[submodule "idolmaster-8th-final"]
+	path = idolmaster-8th-final
+	url = git@github.com:pi9min/idolmaster-8th-final.git

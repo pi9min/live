@@ -1,3 +1,6 @@
 [submodule "anisama2013"]
 	path = anisama2013
 	url = git@github.com:pi9min/anisama2013.git
+[submodule "animax2013"]
+	path = animax2013
+	url = git@github.com:pi9min/animax2013.git
